@@ -7,3 +7,7 @@ var myVar = "Hello, world!";
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+This is my practice to-do list:
+- [ ] Sit down in a chair
+- [ ] Type out 2-3 examples
+- [ ] Finish creating my practice to do list
